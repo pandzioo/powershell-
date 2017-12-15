@@ -1,4 +1,4 @@
-#Information about ActiveDirectory domain
+#Information about ActiveDirectory domain - Powershell 4.0 required
 
 Import-module ActiveDirectory
 
